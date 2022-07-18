@@ -52,12 +52,13 @@ global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala,𝚜𝚛𝚒 𝚕𝚊𝚗𝚔𝚊' //Country Region
 
-global.packname = '☬𝚂𝙷𝙰𝚄𝙳𝙸࿐' //Bot Pacage Name
+global.packname = '☬𝙼𝙰𝚍𝚎 𝚋𝚢 𝚍.𝚗𝚒𝚖𝚜𝚊𝚛𝚊 
+ආදරෙයි ඈ 0778230815 𝚒𝚗𝚋𝚘𝚡 𝚖𝚜𝚐 𝚖𝚎࿐' //Bot Pacage Name
 global.author = '😎𝙳.𝙽𝙸𝙼𝚂𝙰𝚁𝙰❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','😂''#','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '🧩','❤',,'🐼','🥺' // Menu emoji
 global.footer = '_𝚍.𝚗𝚒𝚖𝚜𝚊𝚛𝚊.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
